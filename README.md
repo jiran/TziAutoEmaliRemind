@@ -1,0 +1,2 @@
+# TziAutoEmaliRemind
+使用Tzichecker测到卡时自动发送邮件提示
